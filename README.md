@@ -8,13 +8,13 @@
 - Assign clients to trips, with the capability to create new clients as needed.
 
 ### Getting Started
-###Prerequisites
+### Prerequisites
 - .NET Core SDK
 - Microsoft SQL Server
 - Entity Framework Core
 
-###Required NuGet Packages
--**Make sure to install the following NuGet packages**:
+### Required NuGet Packages
+- **Make sure to install the following NuGet packages**:
 
 - Microsoft.EntityFrameworkCore: The core library for Entity Framework.
 - Microsoft.EntityFrameworkCore.SqlServer: The SQL Server database provider for Entity Framework Core.
