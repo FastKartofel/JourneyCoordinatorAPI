@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wA4pyhRhcUb9JsTp9p2IWl4opWKZjIr5cnAcshWVfUc=",
+  "Source": "JourneyCoordinatorAPI",
+  "BasePath": "_content/JourneyCoordinatorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
